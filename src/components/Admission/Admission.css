@@ -1,0 +1,44 @@
+.admission-page {
+  margin: 0 8%;
+}
+
+.admission-prodcedure {
+  margin-bottom: 2rem;
+  width: 90%;
+}
+
+.scholarship {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 0.5rem;
+}
+
+.scholarship-class {
+  grid-column: 1/4;
+}
+
+.scholarship-11 {
+  margin-bottom: 1.5rem;
+}
+
+.scholarship-img {
+  border-radius: 0.5rem;
+}
+
+@media screen and (max-width: 768px) {
+  .admission-prodcedure {
+    width: 100%;
+  }
+
+  .scholarship-class {
+    grid-column: 1/5;
+  }
+
+  .scholarship-img {
+    margin-top: 1.5rem;
+    grid-column: 2/5;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+}

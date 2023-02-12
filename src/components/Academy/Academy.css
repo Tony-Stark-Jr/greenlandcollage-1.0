@@ -1,0 +1,28 @@
+
+.academy-programs img {
+  width: 100%;
+}
+
+.faculty {
+  width: 90%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  padding-top: 2rem;
+}
+
+h2 {
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+  .faculty {
+    width: 90%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 2rem 0;
+  }
+}

@@ -1,0 +1,57 @@
+.main {
+  padding: 0 8%;
+}
+
+.principal-message {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-bottom: 3rem;
+}
+
+.principal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.principal-img {
+  width: 300px;
+}
+
+.caption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.5rem 0 2rem 0;
+  gap: 0.25rem;
+}
+
+.team {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.team img {
+  width: 100%;
+}
+
+iframe {
+  width: 100%;
+  height: 300px;
+  border-radius: 0.5rem;
+}
+
+@media screen and (max-width: 768px) {
+  .principal-message {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding-bottom: 3rem;
+  }
+
+  .team {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}

@@ -1,0 +1,24 @@
+.introduction-page {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 8%;
+  gap: 1rem;
+}
+
+.students-photo {
+  width: 100%;
+  border-radius: 0.8rem;
+}
+
+.introduction-message {
+  width: 100%;
+}
+
+@media screen and (max-width: 1140px) {
+  .introduction-page {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 0 8%;
+    gap: 2rem;
+  }
+}
