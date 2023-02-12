@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/greenlandcollage-1.0/static/css/main.a71d87b9.css",
+    "main.js": "/greenlandcollage-1.0/static/js/main.7ef275be.js",
+    "static/js/787.227b897d.chunk.js": "/greenlandcollage-1.0/static/js/787.227b897d.chunk.js",
+    "index.html": "/greenlandcollage-1.0/index.html",
+    "main.a71d87b9.css.map": "/greenlandcollage-1.0/static/css/main.a71d87b9.css.map",
+    "main.7ef275be.js.map": "/greenlandcollage-1.0/static/js/main.7ef275be.js.map",
+    "787.227b897d.chunk.js.map": "/greenlandcollage-1.0/static/js/787.227b897d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a71d87b9.css",
+    "static/js/main.7ef275be.js"
+  ]
+}
