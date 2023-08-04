@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+<h1>Greenland College</h1>
+<p>
+ <a href="https://greenlandcollage-1-0.vercel.app"> <img src="https://github.com/Tony-Stark-Jr/greenlandcollage-1.0/assets/74758608/6aaf5782-b050-4713-a712-28d9a7397e93" width="250"> </a>
+</p>
+  <p>A Collage Website.</p>
+  
+  <div style="display:flex;"> 
+      <p><a href="https://greenlandcollage-1-0.vercel.app"><b>View demo</b></a></p>
+    <p><a href="https://www.figma.com/file/BrcBtD39IBOTIT0zWfWY8d/Collage?type=design&node-id=358-254&mode=design&t=Ge36V25on4QH1SLV-0"><b>View design</b></a></p>
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About the project
 
-## Available Scripts
+<div style="display: flex; align-items: center; gap-2;">
+  <img src="https://github.com/Tony-Stark-Jr/greenlandcollage-1.0/assets/74758608/509ef952-f349-408f-8f75-ff32c42e248a" alt="img 1" style="width: 20%; object-fit: cover;">
+  <img src="https://github.com/Tony-Stark-Jr/greenlandcollage-1.0/assets/74758608/6007c3c1-caf0-4385-b3ea-889f50f25b8f" alt="img 2" style="width: 70%; object-fit: cover;">
+</div>
 
-In the project directory, you can run:
 
-### `npm start`
+<p>It is a simple and responsive college's website which is designed and developed for learning purpose.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Technologies & libraries used in this projects.
+* React.js
+* CSS
+* react-icons
+* react-router-dom
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Features
+* Responsive
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Feedback
+If you have any feedback, please open issues
